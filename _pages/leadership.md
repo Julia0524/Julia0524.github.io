@@ -14,15 +14,18 @@ Sailing Summer Camp, including more than 200 students
 <div align=center>
 <center>
 <img src="https://raw.githubusercontent.com/Julia0524/Julia0524.github.io/master/images/sports8.jpg" width = "50%"/>
-<span>32nd SJTU Student Sports Union Inaugural Meeting<\span>
+  <br/>
+<span>32nd SJTU Student Sports Union Inaugural Meeting</span>
 <br/>
 <img src="https://raw.githubusercontent.com/Julia0524/Julia0524.github.io/master/images/sports4.jpg" width = "50%"/>
-<span>2017 SJTU Alumni Cup<\span>
+  <br/>
+<span>2017 SJTU Alumni Cup</span>
 <br/>
 <img src="https://raw.githubusercontent.com/Julia0524/Julia0524.github.io/master/images/sports2.jpg" width = "50%"/>
-<span>2018 Shanghai Games Sailing Match (university group)<\span>
+  <br/>
+<span>2018 Shanghai Games Sailing Match (university group)</span>
 </center>
-  <\div>
+  </div>
 
 ------
 
@@ -32,12 +35,14 @@ Sailing Summer Camp, including more than 200 students
 <div align=center>
 <center>
 <img src="https://raw.githubusercontent.com/Julia0524/Julia0524.github.io/master/images/host7.jpg" width = "50%"/>
-<span>New Student Welcome Party<\span>
+  <br/>
+<span>New Student Welcome Party</span>
 <br/>
 <img src="https://raw.githubusercontent.com/Julia0524/Julia0524.github.io/master/images/host8.jpg" width = "50%"/>
-<span>Class Style Contest<\span>
+  <br/>
+<span>Class Style Contest</span>
 </center>
-  <\div>
+  </div>
 
 ------
 
@@ -46,9 +51,11 @@ Sailing Summer Camp, including more than 200 students
 <div align=center>
 <center>
 <img src="https://raw.githubusercontent.com/Julia0524/Julia0524.github.io/master/images/host2.jpg" width = "50%"/>
-<span>Group Photo of Hosts<\span>
+  <br/>
+<span>Group Photo of Hosts</span>
 <br/>
 <img src="https://raw.githubusercontent.com/Julia0524/Julia0524.github.io/master/images/host1.jpg" width = "50%"/>
-<span>the Gala Evening of the 110th Anniversary Party of SEIEE Foundation<\span>
+  <br/>
+<span>the Gala Evening of the 110th Anniversary Party of SEIEE Foundation</span>
 </center>
-  <\div>
+  </div>
