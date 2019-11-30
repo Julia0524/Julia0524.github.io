@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Research & Project"
-    url: https://Julia0524.github.io/project/
+    url: /project/
 
   - title: "Leadership"
     url: /leadership/     
