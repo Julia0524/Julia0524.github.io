@@ -25,9 +25,9 @@ author_profile: true
 - Designed a neural network based on SegNet using convolution and deconvolution to recognize and segment teeth parts in images converted from CT scans, with high accuracy of 99.5% in 300 pairs of testing samples
 - Conducted edge extraction using canny operator in MATLAB, which applied Gaussian to smooth the image and two thresholds to extract edges; Extracted discrete points in images after edge extraction using OpenCV library
 - Generated point cloud using PCL library by setting 3d coordinates of all points according to standard CT format and adding them to a ply model; Reconstructed 3D mesh model using MeshLab
-
+<center>
 <img src="https://raw.githubusercontent.com/Julia0524/Julia0524.github.io/master/images/TeethReconstruction_poster.png" width = "50%"/>
-
+</center>
 ------
 
 ## ChinaVis 2019 Data Visualization and Analysis Challenge 
@@ -56,5 +56,6 @@ author_profile: true
 ### Supervised by Professor Bin Sheng
 - Built 3 neural networks: HandSegNet for hand segmentation and cropping, PoseNet for hand key points detection and keypoint score maps prediction, Pose3DNet for the estimation of 3D normalized coordinates and hand pose
 - Conducted multi-hand pose estimation by counting and cropping the hands respectively and integrating multiple hands estimated in 3D hand pose estimation network into one 3D coordinate system
-
+<center>
 <img src="https://raw.githubusercontent.com/Julia0524/Julia0524.github.io/master/images/PoseEstimation_poster.png" width = "50%"/>
+</center>
