@@ -5,6 +5,8 @@ permalink: /life/
 author_profile: true
 ---
 
+------
+
 # Activities
 - Volunteered for Shanghai International Marathon for two consecutive years (2017 and 2018)
 <center>
