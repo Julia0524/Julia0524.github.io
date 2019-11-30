@@ -14,7 +14,7 @@ author_profile: true
 - Designed user interface for surgery simulation and data display including serial number and needed transformation distance of the chosen tooth; Calculated the final transformation matrix of each tooth
 
 
-<iframe width="480" height="280" src="https://youtu.be/embed/47r6xLlY0rU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/47r6xLlY0rU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <span style="color:blue">**Demo Video** </span> 
 
 ------
@@ -27,7 +27,7 @@ author_profile: true
 - Conducted edge extraction using canny operator in MATLAB, which applied Gaussian to smooth the image and two thresholds to extract edges; Extracted discrete points in images after edge extraction using OpenCV library
 - Generated point cloud using PCL library by setting 3d coordinates of all points according to standard CT format and adding them to a ply model; Reconstructed 3D mesh model using MeshLab
 
-<img src="https://raw.githubusercontent.com/Julia0524/Julia0524.github.io/master/images/TeethReconstruction_poster.png" width = "30%"/>
+<img src="https://raw.githubusercontent.com/Julia0524/Julia0524.github.io/master/images/TeethReconstruction_poster.png" width = "50%"/>
 
 ------
 
@@ -37,7 +37,7 @@ author_profile: true
 - Designed an interactive visual analysis system to predict the conference agenda, classify conferees, and analyze abnormal conditions using multi-view collaborative analysis
 - Implemented 3 main views, 9 kinds of graphs (such as pie chart, pack chart, and treemap), and various interactive methods to demonstrate data from different dimensions such as time and space
 
-<iframe width="480" height="280" src="https://youtu.be/embed/ShWvLCHtHGk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ShWvLCHtHGk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ------
 
@@ -56,4 +56,4 @@ author_profile: true
 - Built 3 neural networks: HandSegNet for hand segmentation and cropping, PoseNet for hand key points detection and keypoint score maps prediction, Pose3DNet for the estimation of 3D normalized coordinates and hand pose
 - Conducted multi-hand pose estimation by counting and cropping the hands respectively and integrating multiple hands estimated in 3D hand pose estimation network into one 3D coordinate system
 
-<img src="https://raw.githubusercontent.com/Julia0524/Julia0524.github.io/master/images/PoseEstimation_poster.png" width = "30%"/>
+<img src="https://raw.githubusercontent.com/Julia0524/Julia0524.github.io/master/images/PoseEstimation_poster.png" width = "50%"/>
