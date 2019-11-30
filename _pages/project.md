@@ -14,7 +14,7 @@ author_profile: true
 - Designed user interface for surgery simulation and data display including serial number and needed transformation distance of the chosen tooth; Calculated the final transformation matrix of each tooth
 
 
-<iframe width="520" height="300" src="https://www.youtube.com/embed/pglWMPHbTlk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="480" height="280" src="https://youtu.be/47r6xLlY0rU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <span style="color:blue">**Demo Video** </span> 
 
 ------
@@ -36,6 +36,8 @@ author_profile: true
 ### Supervised by Professor Xiaoju Dong
 - Designed an interactive visual analysis system to predict the conference agenda, classify conferees, and analyze abnormal conditions using multi-view collaborative analysis
 - Implemented 3 main views, 9 kinds of graphs (such as pie chart, pack chart, and treemap), and various interactive methods to demonstrate data from different dimensions such as time and space
+
+<iframe width="480" height="280" src="https://youtu.be/ShWvLCHtHGk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ------
 
