@@ -15,7 +15,6 @@ author_profile: true
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/47r6xLlY0rU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<span style="color:blue">**Demo Video** </span> 
 
 ------
 
@@ -47,6 +46,8 @@ author_profile: true
 - Designed the main architecture, detailed operation, user interface, and scenes of an interactive VR skiing action game
 - Calculated sliding distance using a practical method of binding the collider to the bottom part of the ski sticks and recording the collision distance in order to simulate real-life operation in alpine skiing
 - Integrated 2 different game modes (prop mode and gate mode) in 1 main scene in Unity; Traced real-time moving path of the player and generated props and gates automatically in suitable directions
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GobirIY-Bh0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ------
 
