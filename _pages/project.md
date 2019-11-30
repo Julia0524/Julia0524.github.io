@@ -22,7 +22,7 @@ author_profile: true
 - Designed a neural network based on SegNet using convolution and deconvolution to recognize and segment teeth parts in images converted from CT scans, with high accuracy of 99.5% in 300 pairs of testing samples
 - Conducted edge extraction using canny operator in MATLAB, which applied Gaussian to smooth the image and two thresholds to extract edges; Extracted discrete points in images after edge extraction using OpenCV library
 - Generated point cloud using PCL library by setting 3d coordinates of all points according to standard CT format and adding them to a ply model; Reconstructed 3D mesh model using MeshLab
-![Poster of Teeth Reconstruction Project](images/TeethReconstruction_poster.png ''poster'')
+![Poster of Teeth Reconstruction Project](https://raw.githubusercontent.com/Julia0524/Julia0524.github.io/master/images/TeethReconstruction_poster.png ''poster'')
 
 ------
 
