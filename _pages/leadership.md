@@ -11,21 +11,19 @@ author_profile: true
 - Propelled the development of sailing for university students in Shanghai; Organized activities such as the 2018 Shanghai Games Sailing Match (university group), including 10 universities, and the 2018 Shanghai University Student
 Sailing Summer Camp, including more than 200 students
 - Volunteered for Shanghai International Marathon for two consecutive years (2017 and 2018)
-<div align=center>
 <center>
 <img src="https://raw.githubusercontent.com/Julia0524/Julia0524.github.io/master/images/sports8.jpg" width = "50%"/>
-  <br/>
+<br/>
 <span>32nd SJTU Student Sports Union Inaugural Meeting</span>
 <br/>
 <img src="https://raw.githubusercontent.com/Julia0524/Julia0524.github.io/master/images/sports4.jpg" width = "50%"/>
-  <br/>
+<br/>
 <span>2017 SJTU Alumni Cup</span>
 <br/>
 <img src="https://raw.githubusercontent.com/Julia0524/Julia0524.github.io/master/images/sports2.jpg" width = "50%"/>
-  <br/>
+<br/>
 <span>2018 Shanghai Games Sailing Match (university group)</span>
 </center>
-  </div>
 
 ------
 
