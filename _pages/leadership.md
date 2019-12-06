@@ -46,7 +46,7 @@ Sailing Summer Camp, including more than 200 students
 
 ## Core Member - Shanghai Jiao Tong University SEIEE Student Host Group <br/>
 *Nov. 2016 - Jun. 2019*
-- Hosted New Student Welcome Party(2016), ClassStyleContest(2016), and the Gala Evening of the 110th Anniversary Party of SEIEE Foundation, each of which included more than 1000 participants
+- Hosted New Student Welcome Party (2016), Class Style Contest (2016), and the Gala Evening of the 110th Anniversary Party of SEIEE Foundation, each of which included more than 1000 participants
 <center>
 <img src="https://raw.githubusercontent.com/Julia0524/Julia0524.github.io/master/images/host2.jpg" width = "50%"/>
   <br/>
