@@ -30,4 +30,4 @@ Skills
 - **Programming:** C/C++, C#, Python, TensorFlow, HTML, JavaScript, SQL, MATLAB, LaTeX
 - **Professional Tools:** Unity, Origin, Photoshop, Microsoft Office
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=W9OAFV-gtpHiEJTHOD4hNWXaVuHTy6OVL9kRXCZRksE&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=f5f8b1&w=a&t=tt&d=W9OAFV-gtpHiEJTHOD4hNWXaVuHTy6OVL9kRXCZRksE&co=a6bff6&cmo=f8b878&cmn=b47cf6&ct=808080'></script>
