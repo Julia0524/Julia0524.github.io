@@ -28,6 +28,7 @@ author_profile: true
 
 <center>
 <img src="https://raw.githubusercontent.com/Julia0524/Julia0524.github.io/master/images/TeethReconstruction_poster.png" width = "50%"/>
+  <br/>
 <span>Poster</span>
 </center>
 
@@ -52,7 +53,7 @@ author_profile: true
 - Integrated 2 different game modes (prop mode and gate mode) in 1 main scene in Unity; Traced real-time moving path of the player and generated props and gates automatically in suitable directions
 
 <center>
-<iframe width="500" height="280" src="https://www.youtube.com/embed/GobirIY-Bh0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="450" height="250" src="https://www.youtube.com/embed/GobirIY-Bh0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <span>Demo Video</span>
 </center>
 
@@ -65,5 +66,6 @@ author_profile: true
 
 <center>
 <img src="https://raw.githubusercontent.com/Julia0524/Julia0524.github.io/master/images/PoseEstimation_poster.png" width = "50%"/>
+<br/>
 <span>Poster</span>
 </center>
