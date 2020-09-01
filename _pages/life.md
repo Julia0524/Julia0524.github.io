@@ -21,7 +21,6 @@ author_profile: true
 ------
 
 # Hobbies
-- **Reading:** William Shakespeare, Jack Kerouac, Jiajia Zhang
-- **Travelling**
+- **Reading:** William Shakespeare, Jack Kerouac
 - **Music**
 - **Anime** 
