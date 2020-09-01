@@ -12,7 +12,7 @@ Computer Science and Technology @ Shanghai Jiao Tong University (SJTU)
 
 Education
 ======
-- B.S. in Computer Science and Technology, *Sep. 2016 - Jun. 2020 (Expected)*
+- B.S. in Computer Science and Technology, *Sep. 2016 - Jun. 2020*
 - School of Electronic Information and Electrical Engineering (SEIEE), Shanghai Jiao Tong University (SJTU)
 - **Overall GPA:** 3.73 / 4.00 (87.5 / 100)            **Major GPA:** 3.93 / 4.00 (91.8 / 100)
 - Courses: Operating Systems (91), Database System Technology (92), Digital Image Processing (92), Computer Graphics (93), Virtual Reality and Augmented Display (93), Data Visualization and Visual Analytics (95)
