@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-senior student, Computer Science and Technology, School of Electronic Information and Electrical Engineering (SEIEE), Shanghai Jiao Tong University (SJTU)
+Computer Science and Technology @ Shanghai Jiao Tong University (SJTU)
 
 Education
 ======
