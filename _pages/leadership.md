@@ -28,7 +28,7 @@ Sailing Summer Camp, including more than 200 students
 
 ------
 
-## Vice Minister - Shanghai Jiao Tong University SEIEE Student Union <br/>
+## Core Member - Shanghai Jiao Tong University SEIEE Student Union <br/>
 *Mar. 2017 - Dec. 2018*
 - Organized Class Style Contest (2016) and New Student Welcome Party (2017), including more than 1000 participants
 - Worked as the docent of SEIEE Achievement Exhibition for 1 year and guided tourists in both Chinese and English
